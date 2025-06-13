@@ -15,9 +15,9 @@ PAC Labeling is a framework for collecting **statistically sound** pseudo-labels
 ```bibtex
 @inproceedings{paclabels2025,
   title        = {Probably Approximately Correct (PAC) Labels},
-  author       = {Emmanuel Candes and Andrew Ilyas and Tijana Zrnic},
+  author       = {Emmanuel J. Candès and Andrew Ilyas and Tijana Zrnic},
   year         = {2025},
-  booktitle    = {Arxiv preprint arXiV:XXXXXX},
+  booktitle    = {Arxiv preprint arXiV:2506.10908},
 }
 ```
 
