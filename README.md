@@ -1,13 +1,13 @@
 # Probably Approximately Correct (PAC) Labels  
 By [Emmanuel Candes](https://candes.su.domains/), [Andrew Ilyas](https://www.andrewilyas.com/), [Tijana Zrnic](https://tijana-zrnic.github.io/)
 
-> **Official repository for the paper "[Probably Approximately Correct (PAC) Labels](https://arxiv.org/abs/TODO)."**  
+> **Official repository for the paper "[Probably Approximately Correct (PAC) Labels](https://arxiv.org/abs/2506.10908)."**  
 
 PAC Labeling is a framework for collecting **statistically sound** pseudo-labels while reducing costly human annotation. Given a target error budget $$\varepsilon$$ and confidence $$1-\alpha$$, the algorithm decides which examples must be sent to an oracle (e.g. a human annotator) and which can be **auto-labeled** by a model—guaranteeing the overall labeling error is bounded by $$\varepsilon$$ with probability $$1-\alpha$$.
 
 ---
 
-[[Paper](https://arxiv.org/abs/TODO)] [[Quick start](#quick-start)] [[Usage](#usage-in-a-nutshell)]
+[[Paper](https://arxiv.org/abs/2506.10908)] [[Quick start](#quick-start)] [[Usage](#usage-in-a-nutshell)]
 
 ---
 
